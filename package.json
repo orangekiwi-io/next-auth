@@ -2,8 +2,6 @@
   "name": "next-auth",
   "version": "4.22.1-ok",
   "description": "Authentication for Next.js. Hardcoded fix for Trello OAuth1.0",
-  "homepage": "https://next-auth.js.org",
-  "repository": "https://github.com/nextauthjs/next-auth.git",
   "author": "Iain Collins <me@iaincollins.com>",
   "contributors": [
     "Balázs Orbán <info@balazsorban.com>",
