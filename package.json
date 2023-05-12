@@ -1,6 +1,6 @@
 {
-  "name": "next-auth",
-  "version": "4.22.1-ok-2",
+  "name": "@orangekiwi-io/next-auth",
+  "version": "4.22.1.3-ok",
   "description": "Authentication for Next.js. Hardcoded fix for Trello OAuth1.0",
   "main": "index.js",
   "publishConfig": {
