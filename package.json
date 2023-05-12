@@ -1,5 +1,5 @@
 {
   "name": "next-auth",
-  "version": "4.22.1-ok",
+  "version": "4.22.1-ok-2",
   "description": "Authentication for Next.js. Hardcoded fix for Trello OAuth1.0"
 }
